@@ -3,7 +3,7 @@
   "esmodules":["Athletics.js"],
   "title": "Pathfinder1e Athletics",
   "version": "1.0.1",
-  "manifest": "https://raw.githubusercontent.com/AustinGays/Base-100-Silver-Standard/refs/heads/main/base-100-silver-standard/module.json",
+  "manifest": "https://raw.githubusercontent.com/AustinGays/PF1e-Climb-to-Athletics/refs/heads/main/module.json",
   "download": "https://github.com/AustinGays/PF1e-Climb-to-Athletics/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "12",
