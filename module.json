@@ -1,0 +1,12 @@
+```{
+  "id": "pf1e-athletics",
+  "esmodules":["Athletics.js"],
+  "title": "Pathfinder1e Athletics",
+  "version": "1.0.1",
+  "manifest": "https://raw.githubusercontent.com/AustinGays/Base-100-Silver-Standard/refs/heads/main/base-100-silver-standard/module.json",
+  "download": "https://github.com/AustinGays/Base-100-Silver-Standard/archive/refs/heads/main.zip",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}```
