@@ -1,4 +1,4 @@
-```{
+{
   "id": "pf1e-athletics",
   "esmodules":["Athletics.js"],
   "title": "Pathfinder1e Athletics",
@@ -9,4 +9,4 @@
     "minimum": "12",
     "verified": "12"
   }
-}```
+}
